@@ -20,53 +20,19 @@ I am a dedicated data professional with a robust educational background in appli
 
 ## Key Projects
 
-## Projects
-
-### Sentiment Analysis Model
-- **Description**: Improved models for sentiment analysis, achieving up to 90.55% accuracy.
-- **[View Project](https://github.com/vinayvaida27/Sentimental-Analysis)**
-
-### Crime Prediction in Louisville
-- **Description**: Developed predictive models to accurately forecast crime trends in Louisville, KY.
-- **[View Project](https://github.com/vinayvaida27/Crime-Analysis-in-Louisville-KY)**
-
-### Uber Data Insights
-- **Description**: Enhanced data engineering processes to analyze Uber data, utilizing Mage Pipeline and BigQuery.
-- **[View Project](https://github.com/vinayvaida27/UberData-Insights-Analyzing-Uber-Data-with-Mage-Pipeline-and-BigQuery)**
-
-### Face Mask Detection
-- **Description**: Utilized deep learning techniques to develop a real-time face mask detection system with 98% accuracy.
-- **[View Project](https://github.com/vinayvaida27/Real-Time-Face-Mask-Detection-using-Deep-Learning-and-OpenCV)**
-
-### Airline Sentiment Analysis
-- **Description**: Developed an application to analyze sentiments from airline tweets, achieving 91.5% accuracy.
-- **[View Project](https://github.com/vinayvaida27/SENTIMENT-ANALYSIS-OF-AIRLINE-TWEETS)**
-
-### Solar Radiation Prediction
-- **Description**: Enhanced predictive models for solar radiation, improving accuracy by 10%.
-- **[View Project](https://github.com/vinayvaida27/Solar-Radiation-Prediction)**
-
-### Financial Forecasting and Trend Analysis
-- **Description**: Refined stock price prediction models for major companies, incorporating comprehensive trend analysis.
-- **[View Project](https://github.com/vinayvaida27/Financial-Forecasting-and-Trend-Analysis/blob/main/Financial%20Forecasting%20and%20Trend%20Analysis.ipynb)**
+- [**Sentiment Analysis Model**](https://github.com/vinayvaida27/Sentimental-Analysis): Improved models achieving up to 90.55% accuracy.
+- [**Crime Prediction in Louisville**](https://github.com/vinayvaida27/Crime-Analysis-in-Louisville-KY): Developed models to accurately predict crime trends.
+- [**Uber Data Insights**](https://github.com/vinayvaida27/UberData-Insights-Analyzing-Uber-Data-with-Mage-Pipeline-and-BigQuery): Enhanced data engineering processes for analyzing Uber data.
+- [**Face Mask Detection**](https://github.com/vinayvaida27/Real-Time-Face-Mask-Detection-using-Deep-Learning-and-OpenCV): Achieved 98% accuracy with deep learning techniques.
+- [**Airline Sentiment Analysis**](https://github.com/vinayvaida27/SENTIMENT-ANALYSIS-OF-AIRLINE-TWEETS): Analyzed airline tweets with 91.5% accuracy.
+- [**Solar Radiation Prediction**](https://github.com/vinayvaida27/Solar-Radiation-Prediction): Enhanced predictive models surpassing existing accuracy by 10%.
+- [**Financial Forecasting and Trend Analysis**](https://github.com/vinayvaida27/Financial-Forecasting-and-Trend-Analysis): Refined stock price prediction models for major companies.
 
 ## Power BI Dashboards
-
-### Facebook Ad Campaign Analysis
-- **Description**: Analyzes Facebook advertising campaigns, tracking conversion rates, cost per click (CPC), click-through rate (CTR), and demographic engagement.
-- **[View Dashboard](https://github.com/vinayvaida27/PowerBI/blob/main/FaceBook%20Ad%20Camapign%20analysis/Facebook%20Ad%20Camapign%20Analysis.png)**
-
-### Financial Customer Analysis
-- **Description**: Visualizes financial customer segments by demographics, total balances, and geographical distribution.
-- **[View Dashboard](https://github.com/vinayvaida27/PowerBI/blob/main/Financial%20Customer%20Analysis/Financial%20Customer%20Analysis.png)**
-
-### Road Accident Analysis
-- **Description**: Provides insights into road accident trends and statistics, facilitating a better understanding of causes and effects.
-- **[View Dashboard](https://github.com/vinayvaida27/PowerBI/blob/main/Road%20Accident%20Analysis/Road%20Accident%20Analysis.png)**
-
-### Sales Performance Dashboard
-- **Description**: Monitors and analyzes sales data across different market segments and regions, highlighting top-performing and underperforming products.
-- **[View Dashboard](https://github.com/vinayvaida27/PowerBI/blob/main/Sales%20Performance%20Dashboard/Sales%20Performance%20Dashboard.png)**
+- [**Facebook Ad Campaign Analysis**](https://github.com/vinayvaida27/PowerBI/blob/main/FaceBook%20Ad%20Camapign%20analysis/Facebook%20Ad%20Camapign%20Analysis.png): Tracks conversion rates, CPC, and CTR.
+- [**Financial Customer Analysis**](https://github.com/vinayvaida27/PowerBI/blob/main/Financial%20Customer%20Analysis/Financial%20Customer%20Analysis.png): Segments customers by demographics and balances.
+- [**Road Accident Analysis**](https://github.com/vinayvaida27/PowerBI/blob/main/Road%20Accident%20Analysis/Road%20Accident%20Analysis.png): Reveals trends and causes of road accidents.
+- [**Sales Performance Dashboard**](https://github.com/vinayvaida27/PowerBI/blob/main/Sales%20Performance%20Dashboard/Sales%20Performance%20Dashboard.png): Analyzes sales data across various regions and segments.
 
 
 ## How to Reach Me
