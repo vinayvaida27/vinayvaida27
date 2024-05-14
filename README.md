@@ -15,7 +15,7 @@ I am a dedicated data professional with a robust educational background in appli
 ## Technical Expertise
 
 - **Languages**: Python, R, SQL, Java
-- **Tools & Technologies**: Apache Airflow, GCP, BigQuery, TensorFlow, OpenCV, PowerBI, Keras, Sklearn
+- **Tools & Technologies**: Apache Airflow, GCP, BigQuery, TensorFlow, OpenCV, [PowerBI](https://github.com/vinayvaida27/PowerBI), Tableau, Keras, Sklearn
 - **Specializations**: Machine Learning, Data Engineering, Time Series Analysis, Natural Language Processing
 
 ## Key Projects
