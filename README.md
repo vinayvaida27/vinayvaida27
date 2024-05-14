@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinay Vaida</h1>
 <h3 align="center">A dedicated data professional specialized in data science and analytics</h3>
-<img align="right" src="https://github.com/vinayvaida27/Vinay_vaida/blob/main/IMG_5578.jpg" width="230">
+
 
 ## Overview
 
