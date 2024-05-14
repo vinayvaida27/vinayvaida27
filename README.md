@@ -1,6 +1,6 @@
-### Hi there 👋
-
-# I'm Vinay Vaida
+<h1 align="center">Hi 👋, I'm Vinay Vaida</h1>
+<h3 align="center">A dedicated data professional specialized in data science and analytics</h3>
+<img align="right" src="https://github.com/vinayvaida27/Vinay_vaida/blob/main/IMG_5578.jpg" width="230">
 
 ## Overview
 
@@ -8,7 +8,7 @@ I am a dedicated data professional with a robust educational background in appli
 
 ## Contact Information
 
-- **Email**: vinayvaida@gmail.com
+- **Email**: [vinayvaida@gmail.com](mailto:vinayvaida@gmail.com)
 - **LinkedIn**: [Vinay Vaida](https://www.linkedin.com/in/vinayvaida/)
 - **Location**: Albany, NY
 
@@ -20,41 +20,24 @@ I am a dedicated data professional with a robust educational background in appli
 
 ## Key Projects
 
-### [Sentiment Analysis Model](https://github.com/vinayvaida27/Sentimental-Analysis)
-- **Technologies**: Python, NLP, Machine Learning, Text Pre-processing
-- **Outcome**: Enhanced sentiment analysis models achieving up to 90.55% accuracy by integrating advanced feature extraction techniques and machine learning algorithms.
-
-### [Crime Prediction in Louisville](https://github.com/vinayvaida27/Crime-Analysis-in-Louisville-KY)
-- **Technologies**: R, Linear Regression, Random Forest Regression, SARIMA
-- **Outcome**: Developed models to accurately predict serious and violent crime trends, enhancing law enforcement strategies.
-
-### [Uber Data Insights](https://github.com/vinayvaida27/UberData-Insights-Analyzing-Uber-Data-with-Mage-Pipeline-and-BigQuery)
-- **Technologies**: Python, SQL, GCP, BigQuery
-- **Outcome**: Streamlined data engineering processes for analyzing Uber ride data, improving query performance by 25%.
-
-### [Face Mask Detection](https://github.com/vinayvaida27/Real-Time-Face-Mask-Detection-using-Deep-Learning-and-OpenCV)
-- **Technologies**: Python, Neural Networks, TensorFlow, OpenCV
-- **Outcome**: Achieved 98% accuracy on face mask detection using deep learning and computer vision techniques.
-
-### [Airline Sentiment Analysis](https://github.com/vinayvaida27/SENTIMENT-ANALYSIS-OF-AIRLINE-TWEETS)
-- **Technologies**: NLP, Support Vector Machine, Stacking Ensemble Model, Tkinter
-- **Outcome**: Developed an application to analyze US airlines' Twitter sentiment, achieving 91.5% prediction accuracy.
-
-### [Solar Radiation Prediction](https://github.com/vinayvaida27/Solar-Radiation-Prediction)
-- **Technologies**: Python, Machine Learning, Data Analysis, PowerBI
-- **Outcome**: Enhanced predictive models for solar radiation, surpassing existing model accuracy by 10%.
-
-### [Financial Forecasting and Trend Analysis](https://github.com/vinayvaida27/Financial-Forecasting-and-Trend-Analysis/blob/main/Financial%20Forecasting%20and%20Trend%20Analysis.ipynb)
-- **Technologies**: Python, Time Series Analysis, ARIMA, SARIMA
-- **Outcome**: Refined stock price prediction models for Apple and Amazon, significantly reducing forecasting errors.
-
+- [**Sentiment Analysis Model**](https://github.com/vinayvaida27/Sentimental-Analysis): Improved models achieving up to 90.55% accuracy.
+- [**Crime Prediction in Louisville**](https://github.com/vinayvaida27/Crime-Analysis-in-Louisville-KY): Developed models to accurately predict crime trends.
+- [**Uber Data Insights**](https://github.com/vinayvaida27/UberData-Insights-Analyzing-Uber-Data-with-Mage-Pipeline-and-BigQuery): Enhanced data engineering processes for analyzing Uber data.
+- [**Face Mask Detection**](https://github.com/vinayvaida27/Real-Time-Face-Mask-Detection-using-Deep-Learning-and-OpenCV): Achieved 98% accuracy with deep learning techniques.
+- [**Airline Sentiment Analysis**](https://github.com/vinayvaida27/SENTIMENT-ANALYSIS-OF-AIRLINE-TWEETS): Developed an application analyzing airline tweets with 91.5% accuracy.
+- [**Solar Radiation Prediction**](https://github.com/vinayvaida27/Solar-Radiation-Prediction): Enhanced predictive models surpassing existing accuracy by 10%.
+- [**Financial Forecasting and Trend Analysis**](https://github.com/vinayvaida27/Financial-Forecasting-and-Trend-Analysis/blob/main/Financial%20Forecasting%20and%20Trend%20Analysis.ipynb): Refined stock price prediction models for major companies.
 
 ## How to Reach Me
 
-- **GitHub**: [@vinayvaida](https://github.com/vinayvaida27)
+- **GitHub**: [@vinayvaida27](https://github.com/vinayvaida27)
 - **LinkedIn**: [Vinay Vaida](https://www.linkedin.com/in/vinayvaida/)
 
 ## Looking Forward
 
 I am always interested in collaborating on projects that push the envelope in machine learning and data analytics. If you are working on something where you need an analytical mind and a problem solver, feel free to reach out to me!
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/vinayvaida/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="vinay-vaida-linkedin" width="40px" /></a>
+</p>
