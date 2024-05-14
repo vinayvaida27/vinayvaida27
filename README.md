@@ -24,19 +24,19 @@ I am a dedicated data professional with a robust educational background in appli
 - **Technologies**: Python, NLP, Machine Learning, Text Pre-processing
 - **Outcome**: Enhanced sentiment analysis models achieving up to 90.55% accuracy by integrating advanced feature extraction techniques and machine learning algorithms.
 
-### Crime Prediction in Louisville
+### [Crime Prediction in Louisville](https://github.com/vinayvaida27/Crime-Analysis-in-Louisville-KY)
 - **Technologies**: R, Linear Regression, Random Forest Regression, SARIMA
 - **Outcome**: Developed models to accurately predict serious and violent crime trends, enhancing law enforcement strategies.
 
-### Uber Data Insights
+### [Uber Data Insights](https://github.com/vinayvaida27/UberData-Insights-Analyzing-Uber-Data-with-Mage-Pipeline-and-BigQuery)
 - **Technologies**: Python, SQL, GCP, BigQuery
 - **Outcome**: Streamlined data engineering processes for analyzing Uber ride data, improving query performance by 25%.
 
-### Face Mask Detection
+### [Face Mask Detection](https://github.com/vinayvaida27/Real-Time-Face-Mask-Detection-using-Deep-Learning-and-OpenCV)
 - **Technologies**: Python, Neural Networks, TensorFlow, OpenCV
 - **Outcome**: Achieved 98% accuracy on face mask detection using deep learning and computer vision techniques.
 
-### Airline Sentiment Analysis
+### [Airline Sentiment Analysis](https://github.com/vinayvaida27/SENTIMENT-ANALYSIS-OF-AIRLINE-TWEETS)
 - **Technologies**: NLP, Support Vector Machine, Stacking Ensemble Model, Tkinter
 - **Outcome**: Developed an application to analyze US airlines' Twitter sentiment, achieving 91.5% prediction accuracy.
 
@@ -44,17 +44,14 @@ I am a dedicated data professional with a robust educational background in appli
 - **Technologies**: Python, Machine Learning, Data Analysis, PowerBI
 - **Outcome**: Enhanced predictive models for solar radiation, surpassing existing model accuracy by 10%.
 
-### Financial Forecasting and Trend Analysis
+### [Financial Forecasting and Trend Analysis](https://github.com/vinayvaida27/Financial-Forecasting-and-Trend-Analysis/blob/main/Financial%20Forecasting%20and%20Trend%20Analysis.ipynb)
 - **Technologies**: Python, Time Series Analysis, ARIMA, SARIMA
 - **Outcome**: Refined stock price prediction models for Apple and Amazon, significantly reducing forecasting errors.
 
-## Publications & Presentations
-
-- [Link or title of publication/presentation if any]
 
 ## How to Reach Me
 
-- **GitHub**: [@vinayvaida](https://github.com/vinayvaida)
+- **GitHub**: [@vinayvaida](https://github.com/vinayvaida27)
 - **LinkedIn**: [Vinay Vaida](https://www.linkedin.com/in/vinayvaida/)
 
 ## Looking Forward
