@@ -20,7 +20,7 @@ I am a dedicated data professional with a robust educational background in appli
 
 ## Key Projects
 
-### Sentiment Analysis Model
+### Sentiment Analysis Model(https://github.com/vinayvaida27/Sentimental-Analysis)
 - **Technologies**: Python, NLP, Machine Learning, Text Pre-processing
 - **Outcome**: Enhanced sentiment analysis models achieving up to 90.55% accuracy by integrating advanced feature extraction techniques and machine learning algorithms.
 
