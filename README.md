@@ -40,7 +40,7 @@ I am a dedicated data professional with a robust educational background in appli
 - **Technologies**: NLP, Support Vector Machine, Stacking Ensemble Model, Tkinter
 - **Outcome**: Developed an application to analyze US airlines' Twitter sentiment, achieving 91.5% prediction accuracy.
 
-### Solar Radiation Prediction
+### [Solar Radiation Prediction](https://github.com/vinayvaida27/Solar-Radiation-Prediction)
 - **Technologies**: Python, Machine Learning, Data Analysis, PowerBI
 - **Outcome**: Enhanced predictive models for solar radiation, surpassing existing model accuracy by 10%.
 
