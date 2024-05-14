@@ -4,7 +4,7 @@
 
 ## Overview
 
-I am a data engineer and data scientist specializing in predictive modeling, machine learning, and data analysis to extract actionable insights from vast datasets. With a strong foundation in applied mathematics and a track record of impactful projects, I thrive on solving complex data-driven challenges.
+I am a dedicated data professional with a robust educational background in applied mathematics and extensive experience across various data-centric roles including data engineering, data science, data analysis, and statistical analysis. Skilled in harnessing the power of analytics to drive business solutions, I am adept at predictive modeling, machine learning, and deep statistical analysis to extract meaningful insights from complex datasets. My approach integrates a blend of technical expertise, innovative problem-solving, and a keen understanding of data governance and best practices, making me well-suited to transform raw data into strategic assets. As I continue to evolve in my career, I am eager to tackle new challenges and make significant contributions to the success of dynamic organizations in need of advanced data-driven strategies.
 
 ## Contact Information
 
