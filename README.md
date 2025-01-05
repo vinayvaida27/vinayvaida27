@@ -21,12 +21,14 @@ I am a dedicated data professional with a robust educational background in appli
 ## Key Projects
 
 - [**Sentiment Analysis Model**](https://github.com/vinayvaida27/Sentimental-Analysis): Improved models achieving up to 90.55% accuracy.
+- [**Predicting Employee Attrition with Machine Learning and Analytics**](https://github.com/vinayvaida27/Predicting-Employee-Attrition-with-Machine-Learning-and-Analytics): Developed predictive models to analyze employee attrition using machine learning algorithms. This project leverages historical employee data to forecast turnover rates, identify key factors influencing attrition, and provide actionable insights for improving retention strategies.
 - [**Crime Prediction in Louisville**](https://github.com/vinayvaida27/Crime-Analysis-in-Louisville-KY): Developed models to accurately predict crime trends.
 - [**Uber Data Insights**](https://github.com/vinayvaida27/UberData-Insights-Analyzing-Uber-Data-with-Mage-Pipeline-and-BigQuery): Enhanced data engineering processes for analyzing Uber data.
 - [**Face Mask Detection**](https://github.com/vinayvaida27/Real-Time-Face-Mask-Detection-using-Deep-Learning-and-OpenCV): Achieved 98% accuracy with deep learning techniques.
 - [**Airline Sentiment Analysis**](https://github.com/vinayvaida27/SENTIMENT-ANALYSIS-OF-AIRLINE-TWEETS): Analyzed airline tweets with 91.5% accuracy.
 - [**Solar Radiation Prediction**](https://github.com/vinayvaida27/Solar-Radiation-Prediction): Enhanced predictive models surpassing existing accuracy by 10%.
 - [**Financial Forecasting and Trend Analysis**](https://github.com/vinayvaida27/Financial-Forecasting-and-Trend-Analysis): Refined stock price prediction models for major companies.
+- 
 
 ## Power BI Dashboards
 - [**Facebook Ad Campaign Analysis**](https://github.com/vinayvaida27/PowerBI/blob/main/FaceBook%20Ad%20Camapign%20analysis/Facebook%20Ad%20Camapign%20Analysis.png): Tracks conversion rates, CPC, and CTR.
