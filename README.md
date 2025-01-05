@@ -28,7 +28,6 @@ I am a dedicated data professional with a robust educational background in appli
 - [**Airline Sentiment Analysis**](https://github.com/vinayvaida27/SENTIMENT-ANALYSIS-OF-AIRLINE-TWEETS): Analyzed airline tweets with 91.5% accuracy.
 - [**Solar Radiation Prediction**](https://github.com/vinayvaida27/Solar-Radiation-Prediction): Enhanced predictive models surpassing existing accuracy by 10%.
 - [**Financial Forecasting and Trend Analysis**](https://github.com/vinayvaida27/Financial-Forecasting-and-Trend-Analysis): Refined stock price prediction models for major companies.
-- 
 
 ## Power BI Dashboards
 - [**Facebook Ad Campaign Analysis**](https://github.com/vinayvaida27/PowerBI/blob/main/FaceBook%20Ad%20Camapign%20analysis/Facebook%20Ad%20Camapign%20Analysis.png): Tracks conversion rates, CPC, and CTR.
