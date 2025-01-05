@@ -21,7 +21,7 @@ I am a dedicated data professional with a robust educational background in appli
 ## Key Projects
 
 - [**Sentiment Analysis Model**](https://github.com/vinayvaida27/Sentimental-Analysis): Improved models achieving up to 90.55% accuracy.
-- [**Predicting Employee Attrition with Machine Learning and Analytics**](https://github.com/vinayvaida27/Predicting-Employee-Attrition-with-Machine-Learning-and-Analytics):  Built predictive models to forecast employee attrition and identify key factors driving turnover, providing insights for improving retention strategies.
+- [**Predicting Employee Attrition with Machine Learning and Analytics**](https://github.com/vinayvaida27/Predicting-Employee-Attrition-with-Machine-Learning-and-Analytics):   Built models to predict employee attrition, addressing data imbalance and to improve retention strategies.
 - [**Crime Prediction in Louisville**](https://github.com/vinayvaida27/Crime-Analysis-in-Louisville-KY): Developed models to accurately predict crime trends.
 - [**Uber Data Insights**](https://github.com/vinayvaida27/UberData-Insights-Analyzing-Uber-Data-with-Mage-Pipeline-and-BigQuery): Enhanced data engineering processes for analyzing Uber data.
 - [**Face Mask Detection**](https://github.com/vinayvaida27/Real-Time-Face-Mask-Detection-using-Deep-Learning-and-OpenCV): Achieved 98% accuracy with deep learning techniques.
