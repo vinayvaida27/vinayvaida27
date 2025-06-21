@@ -20,28 +20,7 @@ I am a dedicated data professional with a robust educational background in appli
 
 ## Technical Expertise
 
-# 🌠 Greetings, I'm Rohan Sattarapu! 🚀
-
-<h3 align="center">A Stellar Data Enthusiast Navigating the Cosmos of Data Science</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohansattarapu18&label=Stellar%20Views&color=1E90FF&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/rohansattarapu18?label=Orbiters&style=social" alt="followers" />
-  <img src="https://img.shields.io/badge/Mission-Data%20Exploration-FF4500?style=flat" alt="mission" />
-</p>
-
-## Cosmic Overview 🌌
-
-I'm a driven data explorer with 3 years of experience tackling complex datasets, uncovering actionable insights, and fueling data-driven decisions. My expertise spans statistical analysis, data manipulation, and visualization, with a growing passion for machine learning and cloud technologies. I thrive on transforming raw data into strategic solutions and am always eager to chart new territories in the data universe.
-
-## Interstellar Contact 📡
-
-- **Email**: [sattarapurohan18@gmail.com](mailto:sattarapurohan18@gmail.com)
-- **GitHub**: [@rohansattarapu18](https://github.com/rohansattarapu18)
-- **Location**: Albany, NY
-
 ### Programming Languages:
-### Programming Constellations 🚀
 | Python | R | SAS | SQL | Java | Shell | C | PySpark | Nextflow | Groovy | JSON | XML |
 |--------|---|-----|-----|------|-------|---|---------|----------|--------|------|-----|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sas/sas-original.svg" alt="SAS" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Shell" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="PySpark" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextflow/nextflow-original.svg" alt="Nextflow" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" alt="Groovy" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JSON" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" alt="XML" width="40" height="40"/> |
