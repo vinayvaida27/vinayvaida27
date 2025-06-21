@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, I'm Vinay Vaida</h1>
-<h3 align="center">A dedicated data professional specialized in data science and analytics</h3>
+# Hi 👋, I'm Vinay Vaida
 
+<h3 align="center">A dedicated Data Professional specialized in Data Science and Analytics</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vinayvaida27&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/vinayvaida27?label=Follow&style=social" alt="followers" />
+</p>
 
 ## Overview
 
@@ -11,17 +16,43 @@ I am a dedicated data professional with a robust educational background in appli
 - **Email**: [vinayvaida@gmail.com](mailto:vinayvaida@gmail.com)
 - **LinkedIn**: [Vinay Vaida](https://www.linkedin.com/in/vinayvaida/)
 - **Location**: Albany, NY
+- **GitHub**: [@vinayvaida27](https://github.com/vinayvaida27)
 
 ## Technical Expertise
 
-- **Languages**: Python, R, SQL, Java
-- **Tools & Technologies**: Apache Airflow, GCP, BigQuery, TensorFlow, OpenCV, [PowerBI](https://github.com/vinayvaida27/PowerBI), Tableau, Keras, Sklearn
-- **Specializations**: Machine Learning, Data Engineering, Time Series Analysis, Natural Language Processing
+### Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
+</p>
+
+### Tools & Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="BigQuery" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+</p>
+
+### Specializations
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine%20Learning-00C4B4?style=flat&logo=machine-learning&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Data%20Engineering-FF5733?style=flat&logo=data-engineering&logoColor=white" alt="Data Engineering" />
+  <img src="https://img.shields.io/badge/Time%20Series%20Analysis-007ACC?style=flat&logo=time-series&logoColor=white" alt="Time Series" />
+  <img src="https://img.shields.io/badge/NLP-6B7280?style=flat&logo=nlp&logoColor=white" alt="NLP" />
+</p>
 
 ## Key Projects
 
 - [**Sentiment Analysis Model**](https://github.com/vinayvaida27/Sentimental-Analysis): Improved models achieving up to 90.55% accuracy.
-- [**Predicting Employee Attrition with Machine Learning and Analytics**](https://github.com/vinayvaida27/Predicting-Employee-Attrition-with-Machine-Learning-and-Analytics):   Built models to predict employee attrition, addressing data imbalance and to improve retention strategies.
+- [**Predicting Employee Attrition with Machine Learning and Analytics**](https://github.com/vinayvaida27/Predicting-Employee-Attrition-with-Machine-Learning-and-Analytics): Built models to predict employee attrition, addressing data imbalance and to improve retention strategies.
 - [**Crime Prediction in Louisville**](https://github.com/vinayvaida27/Crime-Analysis-in-Louisville-KY): Developed models to accurately predict crime trends.
 - [**Uber Data Insights**](https://github.com/vinayvaida27/UberData-Insights-Analyzing-Uber-Data-with-Mage-Pipeline-and-BigQuery): Enhanced data engineering processes for analyzing Uber data.
 - [**Face Mask Detection**](https://github.com/vinayvaida27/Real-Time-Face-Mask-Detection-using-Deep-Learning-and-OpenCV): Achieved 98% accuracy with deep learning techniques.
@@ -35,11 +66,11 @@ I am a dedicated data professional with a robust educational background in appli
 - [**Road Accident Analysis**](https://github.com/vinayvaida27/PowerBI/blob/main/Road%20Accident%20Analysis/Road%20Accident%20Analysis.png): Reveals trends and causes of road accidents.
 - [**Sales Performance Dashboard**](https://github.com/vinayvaida27/PowerBI/blob/main/Sales%20Performance%20Dashboard/Sales%20Performance%20Dashboard.png): Analyzes sales data across various regions and segments.
 
-
 ## How to Reach Me
 
 - **GitHub**: [@vinayvaida27](https://github.com/vinayvaida27)
 - **LinkedIn**: [Vinay Vaida](https://www.linkedin.com/in/vinayvaida/)
+- **Email**: [vinayvaida@gmail.com](mailto:vinayvaida@gmail.com)
 
 ## Looking Forward
 
@@ -47,5 +78,5 @@ I am always interested in collaborating on projects that push the envelope in ma
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vinayvaida/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="vinay-vaida-linkedin" width="40px" /></a>
+  <a href="https://www.linkedin.com/in/vinayvaida/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="vinay-vaida-linkedin" width="40px" /></a>
 </p>
