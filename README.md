@@ -25,9 +25,11 @@ I am a dedicated data professional with a robust educational background in appli
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="BigQuery" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftexcel.svg" alt="Excel" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" alt="StatsModels" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="ggplot2" width="40" height="40"/> |
 
 ### Data Warehousing & Dashboard
-| Fact Table | Dimension Table | Data Modeling | Tableau | Power BI |
-|------------|----------------|---------------|---------|----------|
-| Fact Table | Dimension Table | Data Modeling | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/> |
+### Data Warehousing & Dashboard
+| BigQuery | Snowflake | Amazon Redshift | Azure Synapse | Tableau | Power BI |
+|----------|-----------|-----------------|--------------|---------|---------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="BigQuery" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" alt="Snowflake" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/amazon_redshift/amazon_redshift-icon.svg" alt="Amazon Redshift" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure Synapse" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/> |
+
 
 ### Cloud Technologies
 
