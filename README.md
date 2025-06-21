@@ -24,6 +24,10 @@ I am a dedicated data professional with a robust educational background in appli
 |--------|-------|--------------|------------|-------|------------|--------------|------------------|---------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="BigQuery" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftexcel.svg" alt="Excel" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" alt="StatsModels" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="ggplot2" width="40" height="40"/> |
 
+### Data Warehousing & Dashboard
+| Fact Table | Dimension Table | Data Modeling | Tableau | Power BI |
+|------------|----------------|---------------|---------|----------|
+| Fact Table | Dimension Table | Data Modeling | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/> |
 
 ### Cloud Technologies
 
@@ -63,22 +67,24 @@ I am a dedicated data professional with a robust educational background in appli
   <img src="https://img.shields.io/badge/Compute%20Engine-VM-0F9D58?style=for-the-badge" alt="Compute Engine"/>
   <img src="https://img.shields.io/badge/Cloud%20Storage-Bucket-DB4437?style=for-the-badge" alt="Cloud Storage"/>
   <img src="https://img.shields.io/badge/BigQuery-Analytics-673AB7?style=for-the-badge" alt="BigQuery"/>
-  <img src="https://img.shields.io/badge/Vertex%20AI-ML%20Ops-FF7043?style=for-the-badge" alt="Vertex AI"/>
-  <img src="https://img.shields.io/badge/Cloud%20Run-Serverless-4285F4?style=for-the-badge" alt="Cloud Run"/>
 
   <br/>
 
   <!-- Row 2 -->
+  <img src="https://img.shields.io/badge/Vertex%20AI-ML%20Ops-FF7043?style=for-the-badge" alt="Vertex AI"/>
+  <img src="https://img.shields.io/badge/Cloud%20Run-Serverless-4285F4?style=for-the-badge" alt="Cloud Run"/>
   <img src="https://img.shields.io/badge/Cloud%20Run%20Jobs-Batch-0F9D58?style=for-the-badge" alt="Cloud Run Jobs"/>
   <img src="https://img.shields.io/badge/Cloud%20Functions-Event--Driven-DB4437?style=for-the-badge" alt="Cloud Functions"/>
+
+  <br/>
+
+  <!-- Row 3 -->
   <img src="https://img.shields.io/badge/Batch-Workloads-FF7043?style=for-the-badge" alt="Batch"/>
   <img src="https://img.shields.io/badge/Eventarc-Triggers-673AB7?style=for-the-badge" alt="Eventarc"/>
   <img src="https://img.shields.io/badge/Cloud%20Scheduler-Cron-4285F4?style=for-the-badge" alt="Cloud Scheduler"/>
   <img src="https://img.shields.io/badge/Mage%20AI-Pipelines-34A853?style=for-the-badge" alt="Mage AI Pipelines"/>
-
-  <br/>
-
 </p>
+
 
 
 
