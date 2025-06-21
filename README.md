@@ -131,37 +131,30 @@ I am a dedicated data professional with a robust educational background in appli
 
 
 ### Specializations
-<style>
-  /* Make the badges larger and keep nice spacing */
-  .special-badges img {
-    transform: scale(1.35);   /* 35 % larger */
-    margin: 6px;
-  }
-</style>
-
-<p align="center" class="special-badges">
+<p align="center">
   <!-- Row 1 -->
-  <img src="https://img.shields.io/badge/Data%20Analysis-2563EB?style=for-the-badge&logo=data-analytics&logoColor=white" alt="Data Analysis" />
-  <img src="https://img.shields.io/badge/Data%20Science-0EA5E9?style=for-the-badge&logo=data-science&logoColor=white" alt="Data Science" />
-  <img src="https://img.shields.io/badge/Data%20Mining-10B981?style=for-the-badge&logo=data-mining&logoColor=white" alt="Data Mining" />
-  <img src="https://img.shields.io/badge/Statistical%20Modeling-059669?style=for-the-badge&logo=statistics&logoColor=white" alt="Statistical Modeling" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-2563EB?style=for-the-badge&logo=data-analytics&logoColor=white" alt="Data Analysis"/>
+  <img src="https://img.shields.io/badge/Data%20Science-0EA5E9?style=for-the-badge&logo=data-science&logoColor=white" alt="Data Science"/>
+  <img src="https://img.shields.io/badge/Data%20Mining-10B981?style=for-the-badge&logo=data-mining&logoColor=white" alt="Data Mining"/>
+  <img src="https://img.shields.io/badge/Statistical%20Modeling-059669?style=for-the-badge&logo=statistics&logoColor=white" alt="Statistical Modeling"/>
 
   <br/>
 
   <!-- Row 2 -->
-  <img src="https://img.shields.io/badge/Machine%20Learning-F59E0B?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-E11D48?style=for-the-badge&logo=deep-learning&logoColor=white" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/Generative%20AI-DB2777?style=for-the-badge&logo=ai&logoColor=white" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/Time%20Series%20Analysis-007ACC?style=for-the-badge&logo=time-series&logoColor=white" alt="Time Series Analysis" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-F59E0B?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-E11D48?style=for-the-badge&logo=deep-learning&logoColor=white" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-DB2777?style=for-the-badge&logo=ai&logoColor=white" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/Time%20Series%20Analysis-007ACC?style=for-the-badge&logo=time-series&logoColor=white" alt="Time Series Analysis"/>
 
   <br/>
 
   <!-- Row 3 -->
-  <img src="https://img.shields.io/badge/Data%20Engineering-FF5733?style=for-the-badge&logo=data-engineering&logoColor=white" alt="Data Engineering" />
-  <img src="https://img.shields.io/badge/Cloud%20Architect-8B5CF6?style=for-the-badge&logo=cloud&logoColor=white" alt="Cloud Architect" />
-  <img src="https://img.shields.io/badge/AI%20Engineer-6366F1?style=for-the-badge&logo=ai-engineer&logoColor=white" alt="AI Engineer" />
-  <img src="https://img.shields.io/badge/AI%20in%20Genomics-A855F7?style=for-the-badge&logo=genomics&logoColor=white" alt="AI in Genomics" />
+  <img src="https://img.shields.io/badge/Data%20Engineering-FF5733?style=for-the-badge&logo=data-engineering&logoColor=white" alt="Data Engineering"/>
+  <img src="https://img.shields.io/badge/Cloud%20Architect-8B5CF6?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Cloud Architect"/>
+  <img src="https://img.shields.io/badge/AI%20Engineer-6366F1?style=for-the-badge&logo=ai-engineer&logoColor=white" alt="AI Engineer"/>
+  <img src="https://img.shields.io/badge/AI%20in%20Genomics-A855F7?style=for-the-badge&logo=genomics&logoColor=white" alt="AI in Genomics"/>
 </p>
+
 
 
 
