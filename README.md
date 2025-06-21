@@ -144,7 +144,7 @@ I am a dedicated data professional with a robust educational background in appli
   <!-- Row 2 -->
   <img src="https://img.shields.io/badge/Machine%20Learning-F59E0B?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Deep%20Learning-E11D48?style=for-the-badge&logo=deep-learning&logoColor=white" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/Generative%20AI%20%7C%20AI-DB2777?style=for-the-badge&logo=ai&logoColor=white" alt="Generative AI & AI" />
+  <img src="https://img.shields.io/badge/Generative%20AI%20%7C%20AI-DB2777?style=for-the-badge&logo=ai&logoColor=white" alt="Generative AI" />
   <img src="https://img.shields.io/badge/Time%20Series%20Analysis-007ACC?style=for-the-badge&logo=time-series&logoColor=white" alt="Time Series Analysis" />
 
   <br/>
