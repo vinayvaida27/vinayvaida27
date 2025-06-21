@@ -54,9 +54,49 @@ I am a dedicated data professional with a robust educational background in appli
 |-------|-----------|------|-----|------------|---------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/> |
 
-### Google Cloud Toolkit
-| GCP | Compute Engine | Cloud Storage | BigQuery | Vertex AI | Cloud Run | Cloud Run Jobs | Cloud Functions | Batch | Eventarc | Mage AI Pipelines |
-|-----|---------------|--------------|----------|-----------|-----------|----------------|-----------------|-------|---------|-------------------|
+
+
+<style>
+/* Center the header and give it a playful gradient */
+.toolkit-header {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  background: -webkit-linear-gradient(45deg, #4285f4, #34a853, #fbbc05, #ea4335);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  padding: 8px 0;
+}
+
+/* Pulse animation for badges (optional — remove if you prefer static) */
+@keyframes pulse {
+  0%   { transform: scale(1); }
+  50%  { transform: scale(1.1); }
+  100% { transform: scale(1); }
+}
+.cloud-badges img {
+  margin: 4px;
+  animation: pulse 3s infinite;
+}
+</style>
+
+<div class="toolkit-header">🚀 Google Cloud Toolkit 🚀</div>
+
+<p align="center" class="cloud-badges">
+  <!-- No logo parameters, just colorful text-only badges -->
+  <img src="https://img.shields.io/badge/GCP-Platform-4285F4?style=for-the-badge" alt="GCP"/>
+  <img src="https://img.shields.io/badge/Compute%20Engine-VM-0F9D58?style=for-the-badge" alt="Compute Engine"/>
+  <img src="https://img.shields.io/badge/Cloud%20Storage-Bucket-DB4437?style=for-the-badge" alt="Cloud Storage"/>
+  <img src="https://img.shields.io/badge/BigQuery-Analytics-673AB7?style=for-the-badge" alt="BigQuery"/>
+  <img src="https://img.shields.io/badge/Vertex%20AI-ML%20Ops-FF7043?style=for-the-badge" alt="Vertex AI"/>
+  <img src="https://img.shields.io/badge/Cloud%20Run-Serverless-4285F4?style=for-the-badge" alt="Cloud Run"/>
+  <img src="https://img.shields.io/badge/Cloud%20Run%20Jobs-Batch-0F9D58?style=for-the-badge" alt="Cloud Run Jobs"/>
+  <img src="https://img.shields.io/badge/Cloud%20Functions-Event-Driven-DB4437?style=for-the-badge" alt="Cloud Functions"/>
+  <img src="https://img.shields.io/badge/Batch-Workloads-FF7043?style=for-the-badge" alt="Batch"/>
+  <img src="https://img.shields.io/badge/Eventarc-Triggers-673AB7?style=for-the-badge" alt="Eventarc"/>
+  <img src="https://img.shields.io/badge/Mage%20AI-Pipelines-34A853?style=for-the-badge" alt="Mage AI Pipelines"/>
+</p>
+
 
 
 
