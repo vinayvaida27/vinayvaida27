@@ -23,10 +23,6 @@ I am a dedicated data professional with a robust educational background in appli
 | <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="BigQuery" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/amazon_redshift/amazon_redshift-icon.svg" alt="Amazon Redshift" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/microsoft_azure_synapse/microsoft_azure_synapse-icon.svg" alt="Azure Synapse" width="40" height="40"/> |<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>| <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> |
 
 
-### Data Warehousing & Dashboard
-| BigQuery | Snowflake | Amazon Redshift | Azure Synapse | Tableau | Power BI |
-|----------|-----------|-----------------|--------------|---------|----------|
-| <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="BigQuery" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/amazon_redshift/amazon_redshift-icon.svg" alt="Amazon Redshift" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/microsoft_azure_synapse/microsoft_azure_synapse-icon.svg" alt="Azure Synapse" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> |
 
 ### Cloud Technologies
 | AWS | Azure | GCP | Vertex AI | Databricks |
