@@ -56,19 +56,31 @@ I am a dedicated data professional with a robust educational background in appli
 
 
 
-
+<!-- Google Cloud Toolkit — neatly arranged 4 × 4 grid -->
+<p align="center" class="cloud-badges">
+  <!-- Row 1 -->
   <img src="https://img.shields.io/badge/GCP-Platform-4285F4?style=for-the-badge" alt="GCP"/>
   <img src="https://img.shields.io/badge/Compute%20Engine-VM-0F9D58?style=for-the-badge" alt="Compute Engine"/>
   <img src="https://img.shields.io/badge/Cloud%20Storage-Bucket-DB4437?style=for-the-badge" alt="Cloud Storage"/>
   <img src="https://img.shields.io/badge/BigQuery-Analytics-673AB7?style=for-the-badge" alt="BigQuery"/>
+
+  <br/>
+
+  <!-- Row 2 -->
   <img src="https://img.shields.io/badge/Vertex%20AI-ML%20Ops-FF7043?style=for-the-badge" alt="Vertex AI"/>
   <img src="https://img.shields.io/badge/Cloud%20Run-Serverless-4285F4?style=for-the-badge" alt="Cloud Run"/>
   <img src="https://img.shields.io/badge/Cloud%20Run%20Jobs-Batch-0F9D58?style=for-the-badge" alt="Cloud Run Jobs"/>
-  <img src="https://img.shields.io/badge/Cloud%20Functions-Event-Driven-DB4437?style=for-the-badge" alt="Cloud Functions"/>
+  <img src="https://img.shields.io/badge/Cloud%20Functions-Event--Driven-DB4437?style=for-the-badge" alt="Cloud Functions"/>
+
+  <br/>
+
+  <!-- Row 3 -->
   <img src="https://img.shields.io/badge/Batch-Workloads-FF7043?style=for-the-badge" alt="Batch"/>
   <img src="https://img.shields.io/badge/Eventarc-Triggers-673AB7?style=for-the-badge" alt="Eventarc"/>
+  <img src="https://img.shields.io/badge/Cloud%20Scheduler-Cron-4285F4?style=for-the-badge" alt="Cloud Scheduler"/>
   <img src="https://img.shields.io/badge/Mage%20AI-Pipelines-34A853?style=for-the-badge" alt="Mage AI Pipelines"/>
 </p>
+
 
 
 
