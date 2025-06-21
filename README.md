@@ -1,6 +1,6 @@
-# Hi 👋, I'm Vinay Vaida
+<h1 align="center">Hi, I'm Vinay Vaida</h1>
 
-<h3 align="center">A dedicated Data Professional specialized in Data Science and Analytics</h3>
+<h3 align="center">A dedicated Research Scientist specialized in Data Science and AI</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vinayvaida27&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -9,7 +9,7 @@
 
 ## Overview
 
-I am a dedicated data professional with a robust educational background in applied mathematics and extensive experience across various data-centric roles including data engineering, data science, data analysis, and statistical analysis. Skilled in harnessing the power of analytics to drive business solutions, I am adept at predictive modeling, machine learning, and deep statistical analysis to extract meaningful insights from complex datasets. My approach integrates a blend of technical expertise, innovative problem-solving, and a keen understanding of data governance and best practices, making me well-suited to transform raw data into strategic assets. As I continue to evolve in my career, I am eager to tackle new challenges and make significant contributions to the success of dynamic organizations in need of advanced data-driven strategies.
+I am a dedicated data professional with a robust educational background in applied mathematics and AI and extensive experience across various data-centric roles including data engineering, data science, data mining, and statistical modeling. Skilled in harnessing the power of analytics to drive business solutions, I am adept at predictive modeling, machine learning, and deep statistical analysis to extract meaningful insights from complex datasets. My approach integrates a blend of technical expertise, innovative problem-solving, and a keen understanding of data governance and best practices, making me well-suited to transform raw data into strategic assets. As I continue to evolve in my career, I am eager to tackle new challenges and make significant contributions to the success of dynamic organizations in need of advanced data-driven strategies.
 
 ## Contact Information
 
@@ -20,13 +20,10 @@ I am a dedicated data professional with a robust educational background in appli
 
 ## Technical Expertise
 
-### Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
-</p>
+### Programming Languages
+| Python | R | SAS | SQL | Java | Nextflow | Shell |
+|--------|---|-----|-----|------|----------|-------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sas/sas-original.svg" alt="SAS" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextflow/nextflow-original.svg" alt="Nextflow" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Shell" width="40" height="40"/> |
 
 ### Tools & Technologies
 <p align="left">
