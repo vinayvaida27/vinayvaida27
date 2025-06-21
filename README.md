@@ -131,14 +131,28 @@ I am a dedicated data professional with a robust educational background in appli
 
 
 
-
 ### Specializations
 <p align="left">
-  <img src="https://img.shields.io/badge/Machine%20Learning-00C4B4?style=flat&logo=machine-learning&logoColor=white" alt="Machine Learning" />
+  <!-- Data Skills -->
+  <img src="https://img.shields.io/badge/Data%20Analysis-2563EB?style=flat&logo=data-analytics&logoColor=white"  alt="Data Analysis" />
+  <img src="https://img.shields.io/badge/Data%20Science-0EA5E9?style=flat&logo=data-science&logoColor=white"    alt="Data Science" />
+  <img src="https://img.shields.io/badge/Data%20Mining-10B981?style=flat&logo=data-mining&logoColor=white"       alt="Data Mining" />
+  <img src="https://img.shields.io/badge/Statistical%20Modeling-059669?style=flat&logo=statistics&logoColor=white" alt="Statistical Modeling" />
+
+  <!-- Core AI / ML -->
+  <img src="https://img.shields.io/badge/Machine%20Learning-F59E0B?style=flat&logo=machine-learning&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-E11D48?style=flat&logo=deep-learning&logoColor=white"       alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Generative%20AI%20%7C%20AI-DB2777?style=flat&logo=ai&logoColor=white"      alt="Generative AI & AI" />
+
+  <!-- Engineering & Cloud -->
   <img src="https://img.shields.io/badge/Data%20Engineering-FF5733?style=flat&logo=data-engineering&logoColor=white" alt="Data Engineering" />
-  <img src="https://img.shields.io/badge/Time%20Series%20Analysis-007ACC?style=flat&logo=time-series&logoColor=white" alt="Time Series" />
-  <img src="https://img.shields.io/badge/NLP-6B7280?style=flat&logo=nlp&logoColor=white" alt="NLP" />
+  <img src="https://img.shields.io/badge/Cloud%20Architect-8B5CF6?style=flat&logo=cloud&logoColor=white"            alt="Cloud Architect" />
+  <img src="https://img.shields.io/badge/AI%20Engineer-6366F1?style=flat&logo=ai-engineer&logoColor=white"          alt="AI Engineer" />
+  <img src="https://img.shields.io/badge/AI%20in%20Genomics-A855F7?style=flat&logo=genomics&logoColor=white"        alt="AI in Genomics" />
 </p>
+
+
+
 
 ## Key Projects
 
