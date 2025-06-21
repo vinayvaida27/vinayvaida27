@@ -45,7 +45,7 @@ I am a dedicated data professional with a robust educational background in appli
 
 ### Development Tools
 
-| Git | GitHub | CI/CD Pipelines | Docker | Kubernetes | VS&nbsp;Code | PyCharm | Jupyter&nbsp;Notebook |
+| Git | GitHub | CI/CD | Docker | Kubernetes | VS&nbsp;Code | PyCharm | Jupyter&nbsp;Notebook |
 |-----|--------|----------------------|--------|------------|-------------|---------|----------------------|
 | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="40" height="40"/> |
 
