@@ -11,13 +11,6 @@
 
 I am a dedicated data professional with a robust educational background in applied mathematics and AI and extensive experience across various data-centric roles including data engineering, data science, data mining, and statistical modeling. Skilled in harnessing the power of analytics to drive business solutions, I am adept at predictive modeling, machine learning, and deep statistical analysis to extract meaningful insights from complex datasets. My approach integrates a blend of technical expertise, innovative problem-solving, and a keen understanding of data governance and best practices, making me well-suited to transform raw data into strategic assets. As I continue to evolve in my career, I am eager to tackle new challenges and make significant contributions to the success of dynamic organizations in need of advanced data-driven strategies.
 
-## Contact Information
-
-- **Email**: [vinayvaida@gmail.com](mailto:vinayvaida@gmail.com)
-- **LinkedIn**: [Vinay Vaida](https://www.linkedin.com/in/vinayvaida/)
-- **Location**: Albany, NY
-- **GitHub**: [@vinayvaida27](https://github.com/vinayvaida27)
-
 ## Technical Expertise
 
 ### Programming Languages:
