@@ -57,7 +57,7 @@ I am a dedicated data professional with a robust educational background in appli
 ### Google Cloud Toolkit
 | GCP | Compute Engine | Cloud Storage | BigQuery | Vertex AI | Cloud Run | Cloud Run Jobs | Cloud Functions | Batch | Eventarc | Mage AI Pipelines |
 |-----|---------------|--------------|----------|-----------|-----------|----------------|-----------------|-------|---------|-------------------|
-| GCP | Compute Engine | Cloud Storage | BigQuery | Vertex AI | Cloud Run | Cloud Run Jobs | Cloud Functions | Batch | Eventarc | Mage AI Pipelines |
+
 
 
 
