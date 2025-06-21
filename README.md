@@ -54,19 +54,11 @@ I am a dedicated data professional with a robust educational background in appli
 |-------|-----------|------|-----|------------|---------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/> |
 
-### Google Cloud Toolkit  
-<p align="left">
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/Compute&nbsp;Engine-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Compute Engine" />
-  <img src="https://img.shields.io/badge/Cloud&nbsp;Storage&nbsp;(Bucket)-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Cloud Storage" />
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="BigQuery" />
-  <img src="https://img.shields.io/badge/Cloud&nbsp;Run-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Cloud Run" />
-  <img src="https://img.shields.io/badge/Cloud&nbsp;Run&nbsp;Jobs-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Cloud Run Jobs" />
-  <img src="https://img.shields.io/badge/Cloud&nbsp;Functions-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Cloud Functions" />
-  <img src="https://img.shields.io/badge/Batch-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Cloud Batch" />
-  <img src="https://img.shields.io/badge/Eventarc-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Eventarc" />
-  <img src="https://img.shields.io/badge/Mage&nbsp;AI&nbsp;Pipelines-5E5DF0?style=flat&logo=data-bricks&logoColor=white" alt="Mage Pipelines" />
-</p>
+### Google Cloud Toolkit
+| GCP | Compute Engine | Cloud Storage | BigQuery | Vertex AI | Cloud Run | Cloud Run Jobs | Cloud Functions | Batch | Eventarc | Mage AI Pipelines |
+|-----|---------------|--------------|----------|-----------|-----------|----------------|-----------------|-------|---------|-------------------|
+| GCP | Compute Engine | Cloud Storage | BigQuery | Vertex AI | Cloud Run | Cloud Run Jobs | Cloud Functions | Batch | Eventarc | Mage AI Pipelines |
+
 
 
 ### Specializations
