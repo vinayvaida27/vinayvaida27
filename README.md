@@ -59,7 +59,7 @@ I am a dedicated data professional with a robust educational background in appli
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/> |
 
 
-
+### Google Cloud Toolkit
 <!-- Google Cloud Toolkit — neatly arranged 4 × 4 grid -->
 <p align="center" class="cloud-badges">
   <!-- Row 1 -->
@@ -86,6 +86,47 @@ I am a dedicated data professional with a robust educational background in appli
 </p>
 
 
+### ML & DL Toolkit
+<!-- Algorithms & Architectures — 4 × 4 badge grid -->
+<p align="center" class="ml-dl-badges">
+  <!-- Row 1 -->
+  <img src="https://img.shields.io/badge/Regression-Model-4C51BF?style=for-the-badge" alt="Regression"/>
+  <img src="https://img.shields.io/badge/Classification-Model-2B6CB0?style=for-the-badge" alt="Classification"/>
+  <img src="https://img.shields.io/badge/SVM-Kernel-2F855A?style=for-the-badge" alt="SVM"/>
+  <img src="https://img.shields.io/badge/PCA-Dimensionality-805AD5?style=for-the-badge" alt="PCA"/>
+
+  <br/>
+
+  <!-- Row 2 -->
+  <img src="https://img.shields.io/badge/Clustering-K%20Means-38A169?style=for-the-badge" alt="Clustering"/>
+  <img src="https://img.shields.io/badge/Time%20Series-Forecast-D69E2E?style=for-the-badge" alt="Time Series"/>
+  <img src="https://img.shields.io/badge/Ensemble-Boosting-C05621?style=for-the-badge" alt="Ensemble Models"/>
+  <img src="https://img.shields.io/badge/Anomaly%20Detection-Outliers-DD6B20?style=for-the-badge" alt="Anomaly Detection"/>
+
+  <br/>
+
+  <!-- Row 3 -->
+  <img src="https://img.shields.io/badge/NLP-Text-3182CE?style=for-the-badge" alt="NLP"/>
+  <img src="https://img.shields.io/badge/ANN-Feedforward-805AD5?style=for-the-badge" alt="ANN"/>
+  <img src="https://img.shields.io/badge/CNN-Convolutional-4A5568?style=for-the-badge" alt="CNN"/>
+  <img src="https://img.shields.io/badge/RNN-Recurrent-2D3748?style=for-the-badge" alt="RNN"/>
+
+  <br/>
+
+  <!-- Row 4 -->
+  <img src="https://img.shields.io/badge/GRU-Gated-319795?style=for-the-badge" alt="GRU"/>
+  <img src="https://img.shields.io/badge/LSTM-Long%20Short-38B2AC?style=for-the-badge" alt="LSTM"/>
+  <img src="https://img.shields.io/badge/Transformers-Attention-9B2C2C?style=for-the-badge" alt="Transformers"/>
+  <img src="https://img.shields.io/badge/BERT-Language-742A2A?style=for-the-badge" alt="BERT"/>
+
+  <br/>
+
+  <!-- Row 5 -->
+  <img src="https://img.shields.io/badge/DNABERT-Genomics-6B46C1?style=for-the-badge" alt="DNABERT"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-Synthesis-ED8936?style=for-the-badge" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/RAG-Retrieval-ED64A6?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Encoder--Decoder-Seq2Seq-4FD1C5?style=for-the-badge" alt="Encoder-Decoder"/>
+</p>
 
 
 
