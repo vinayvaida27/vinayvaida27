@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Vinay Vaida</h1>
 
-<h3 align="center">A dedicated Research Scientist specialized in Data Science and AI</h3>
+<h3 align="center">A dedicated Research Scientist specialized in Data Science, Bio Informatics and AI</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vinayvaida27&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
